@@ -6,7 +6,7 @@
     "age": 3,
     "breed": "Scottish Terrier",
     "location": "Lisco, Alabama",
-    "price":"1 ETH"
+    "price":"4 ETH"
   },
   {
     "id": 1,
@@ -15,7 +15,7 @@
     "age": 3,
     "breed": "Scottish Terrier",
     "location": "Tooleville, West Virginia",
-    "price":"1 ETH"
+    "price":"3 ETH"
   },
   {
     "id": 2,

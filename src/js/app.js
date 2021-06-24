@@ -15,7 +15,7 @@ App = {
         petTemplate.find('.pet-age').text(data[i].age);
         petTemplate.find('.pet-location').text(data[i].location);
         petTemplate.find('.btn-adopt').attr('data-id', data[i].id);
-
+        petTemplate.find('.price').text(data[i].price);
         petsRow.append(petTemplate.html());
       }
     });
